@@ -1,0 +1,14 @@
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.exe
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.deps.json
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.dll
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.pdb
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.dll
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.pdb
+C:\Users\Kimley\source\repos\Dizon.AbstractFactoryDesignPattern\Dizon.AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\Dizon.AbstractFactoryDesignPattern.genruntimeconfig.cache
